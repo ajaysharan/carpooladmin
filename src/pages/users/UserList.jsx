@@ -14,7 +14,7 @@ import MyForm from "../../components/Common/MyForm";
 import * as Yup from "yup";
 import { DataTable } from "../../components/DataTable/DataTable";
 import { StatusBadge } from "../../components/DataTable/StatusBadge";
-import { VerifyBadge } from "../../components/DataTable/verifyBadge";
+import { VerifyBadge } from "../../components/DataTable/VerifyBadge";
 
 const AlertMessage = withReactContent(Swal);
 const UserList = () => {
