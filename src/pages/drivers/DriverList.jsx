@@ -10,7 +10,7 @@ import * as Yup from "yup";
 import withReactContent from "sweetalert2-react-content";
 import { DataTable } from "../../components/DataTable/DataTable";
 import { StatusBadge } from "../../components/DataTable/StatusBadge";
-import { VerifyBadge } from "../../components/DataTable/verifyBadge";
+import { VerifyBadge } from "../../components/DataTable/VerifyBadge";
 import { FILE_SIZE, SUPPORTED_FORMATS_IMAGE } from "../../constants/fromConfig";
 import MyForm from "../../components/Common/MyForm";
 
